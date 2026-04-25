@@ -8,5 +8,6 @@ dist/
 build/
 .venv/
 .vscode/
-.pkl
+*.pkl
+*.cbm
 config.json
