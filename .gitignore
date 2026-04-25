@@ -11,3 +11,5 @@ build/
 *.pkl
 *.cbm
 config.json
+models/*
+!models/README.md
