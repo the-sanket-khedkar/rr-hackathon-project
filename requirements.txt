@@ -1,0 +1,12 @@
+# requirements.txt (recommended)
+pandas
+numpy
+openpyxl
+scikit-learn
+lightgbm
+catboost
+shap
+matplotlib
+seaborn
+pulp
+pyarrow

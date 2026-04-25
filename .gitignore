@@ -1,0 +1,12 @@
+.env
+data/
+*.csv
+*.json
+*.xlsx
+node_modules/
+dist/
+build/
+.venv/
+.vscode/
+.pkl
+config.json
