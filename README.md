@@ -4,7 +4,7 @@
 
 ---
 
-## 📌 Overview
+##  Overview
 
 This project was developed during the **RR Hackathon** with the goal of building a data-driven system for optimizing player selection under defined constraints.
 
@@ -14,32 +14,32 @@ The focus of this project is not just prediction, but combining data processing,
 
 ---
 
-## 🚀 Features
+##  Features
 
-- 📊 **Data Processing Pipeline**  
+-  **Data Processing Pipeline**  
   Cleans and transforms raw player data into structured features
 
-- 🤖 **Machine Learning Integration**  
+-  **Machine Learning Integration**  
   Uses trained models to generate performance-based predictions
 
-- ⚙️ **Config-Driven Design**  
+-  **Config-Driven Design**  
   Flexible configuration using JSON for paths and parameters
 
-- 🎯 **Constraint-Based Optimization**  
+-  **Constraint-Based Optimization**  
   Selects players based on budget and performance limits
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - Python  
 - Pandas / NumPy  
-- CatBoost *(or your model — update if different)*  
+- scikit-learn, matplotlib  
 - JSON-based configuration  
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 scripts/ # Core logic and pipeline scripts
 models/ # Placeholder (models excluded due to confidentiality)
@@ -49,7 +49,7 @@ submission/ # Final outputs
 
 ---
 
-## ⚙️ Setup Instructions
+##  Setup Instructions
 
 ### 1. Clone the repository
 ```bash
@@ -68,25 +68,25 @@ config.example.json → config.json
 Update file paths according to your local dataset.
 
 ---
-## ⚠️ Important Notes
-- 📂 Dataset is not included due to confidentiality
-- 🤖 Model files are excluded intentionally
-- 🔐 No sensitive data or credentials are included
+##  Important Notes
+-  Dataset is not included due to confidentiality
+-  Model files are excluded intentionally
+-  No sensitive data or credentials are included
 
 ### To run this project:
 
 - Use your own dataset
 - Retrain models if required
 
-## 🧠 Key Learnings
+##  Key Learnings
 - Working with real-world constraints in time-bound environments
 - Building modular, config-driven pipelines
 - Integrating machine learning with decision logic
 - Debugging and iterating under hackathon pressure
 
-### 🔗 GitHub Link
+###  GitHub Link
 https://github.com/the-sanket-khedkar/rr-hackathon-project
 
-### 📬 Contact
+###  Contact
 
 If you’d like to discuss the project or collaborate, feel free to connect.
